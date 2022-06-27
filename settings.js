@@ -20,26 +20,38 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = ` 🐋 𝐓𝐞𝐜𝐡 𝐏𝐚𝐬𝐢𝐝𝐮 𝐏𝐮𝐛𝐥𝐢𝐜 𝐁𝐎𝐓 🐋 
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+🧚‍♀️ ɪ ᴀᴍ ᴘᴀꜱɪᴅᴜ ᴘᴜʙʟɪᴄ ʙᴏᴛ 🧚‍♀️
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
-global.botname = ' ☬RED༒DRAGON' //Bot Name
+🤹️ *හයි හයි මම Online ඉන්නෙ 👀❤️ ඔනැම සෙවයක් ලබා ගත හැක* 🤹️
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+📌 ᴍʏ ʙᴏᴛ ᴍᴇɴᴜ ʟɪꜱᴛ ❤️‍🩹
+[ .ᴍᴇɴᴜ ]
 
-global.region = 'India, South India, Kerala' //Country Region
+📌ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ( .ꜱᴏɴɢ
+📌ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ (.ᴠɪᴅᴇᴏ
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+
+❶ 🧚‍♀️𝚃𝙴𝙲𝙷 𝙿𝙰𝚂𝙸𝙳𝚄 𝚆.𝙰 𝙱𝙾𝚃🧚‍♀️` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+940754377088'] //Owner number in aive msg
+global.premium = ['+940754377088'] //Owner Number info
+global.ownernomer = '+940754377088' //Owner Number <<<
+
+global.ownername = '[ 🐋⃚⃝🪄 𝗣𝗔𝗦𝗜𝗬𝗔 𝗕𝗢𝗧 🪄⃚⃝🐋]' //Owner Name
+global.botname = ' [🤹‍♂️ 𝙿𝙰𝚂𝙸𝚈𝙰 𝙼𝙰𝚂𝚃𝙴𝚁 𝙱𝙾𝚃 🤹‍♂️]' //Bot Name
+
+global.button = '🥰MY WHATSAPP GROUP📍' //Costomize A Button Name In Alive Message
+global.btnurl = '😃 https://chat.whatsapp.com/HJdjrTzxbcwFCt3jeUBOlb 😃' //Change Your Button's URL
+
+global.region = 'India, South India, Kerala, Sri Lanka' //Country Region
+
+global.packname = '🤹‍♂️ᴛᴇͥ͢ᴄͣʜͫ_ᴘᴀꜱɪͫ͢ᴅͣᴜͯ🤹‍♂️' //Bot Pacage Name
+global.author = '😎𝗩.𝗣𝗮𝘀𝗶𝗱𝘂❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
-global.sp = '⭔' //A Charactor In Menu!
+global.sp = '❤️' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
