@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = ` 🐋 𝐓𝐞𝐜𝐡 𝐏𝐚𝐬𝐢𝐝𝐮 𝐏𝐮𝐛𝐥𝐢𝐜 𝐁𝐎𝐓 🐋 
+global.alivemsg = ` 🐋 𝚃𝙴𝙲𝙷 𝙿𝙰𝚂𝙸𝙳𝚄 𝙿𝚄𝙱𝙻𝙸𝙲 𝙱𝙾𝚃 🐋 
 
 🧚‍♀️ ɪ ᴀᴍ ᴘᴀꜱɪᴅᴜ ᴘᴜʙʟɪᴄ ʙᴏᴛ 🧚‍♀️
 
@@ -43,13 +43,13 @@ global.ownername = '[ 🐋⃚⃝🪄 𝗣𝗔𝗦𝗜𝗬𝗔 𝗕𝗢𝗧 🪄�
 global.botname = ' [🤹‍♂️ 𝙿𝙰𝚂𝙸𝚈𝙰 𝙼𝙰𝚂𝚃𝙴𝚁 𝙱𝙾𝚃 🤹‍♂️]' //Bot Name
 
 global.button = '🥰MY WHATSAPP GROUP📍' //Costomize A Button Name In Alive Message
-global.btnurl = '😃 https://chat.whatsapp.com/HJdjrTzxbcwFCt3jeUBOlb 😃' //Change Your Button's URL
+global.btnurl = '😃 https://chat.whatsapp.com/KkUJmbixrmpCymTXaLOul8 😃' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala, Sri Lanka' //Country Region
 
 global.packname = '🤹‍♂️ᴛᴇͥ͢ᴄͣʜͫ_ᴘᴀꜱɪͫ͢ᴅͣᴜͯ🤹‍♂️' //Bot Pacage Name
 global.author = '😎𝗩.𝗣𝗮𝘀𝗶𝗱𝘂❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['*','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '❤️' //A Charactor In Menu!
 
@@ -58,14 +58,14 @@ global.ig = 'https://github.com/prabhasha2006' //Github Account!
 global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
-    success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    success: 'Done ..✅',
+    admin: '😜Only Admins can use it!😉',
+    botAdmin: '😥Bot wants to be an Admin😥',
+    owner: '😜Only Owner can use this!😉',
+    group: '🐣Feature Used Only For Groups🐣!',
+    private: '🕊️This Features Only For Private Chat🕊️!',
+    bot: '😉This Feature Is Only For Bot😝',
+    wait: '☞Pleas Wait...🪄',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
