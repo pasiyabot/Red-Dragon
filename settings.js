@@ -20,35 +20,47 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = ` 🐋 𝚃𝙴𝙲𝙷 𝙿𝙰𝚂𝙸𝙳𝚄 𝙿𝚄𝙱𝙻𝙸𝙲 𝙱𝙾𝚃 🐋 
+global.alivemsg = '┌──🪔
 
-🧚‍♀️ ɪ ᴀᴍ ᴘᴀꜱɪᴅᴜ ᴘᴜʙʟɪᴄ ʙᴏᴛ 🧚‍♀️
+│  ╭───────────╮
 
-🤹️ *හයි හයි මම Online ඉන්නෙ 👀❤️ ඔනැම සෙවයක් ලබා ගත හැක* 🤹️
+│    🧜𝚂𝙻𝚃 𝙿𝙰𝚂𝙸𝙳𝚄🧜
 
-📌 ᴍʏ ʙᴏᴛ ᴍᴇɴᴜ ʟɪꜱᴛ ❤️‍🩹
-[ .ᴍᴇɴᴜ ]
+│  ╰───────────╯
 
-📌ꜱᴏɴɢ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ( .ꜱᴏɴɢ
-📌ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ (.ᴠɪᴅᴇᴏ
+└──🪔
+
+      ┌ *⌚සුබ උදෑසනක්🌞* ┐
+
+👋 ```𝗶 𝗮𝗺 𝗮𝗹𝗶𝘃𝗲 𝗻𝗼𝘄```
+
+🪴 𝗢𝘄𝗻𝗲𝗿🎓 : 🔥៚ʏ͡ᴛ ᴘᴀꜱɪ͢ᴅᴜ༆🔥
+
+🪴 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 🧙 : *12.0.1*
+
+🪴 𝗚𝗿𝗼𝘂𝗽 🧜 : https://chat.whatsapp.com/EpqPcoZESOZFlrhcBg26FT
+
+┗━━━━━━━━━━━━━━━┛'
+
+
 
 
 ❶ 🧚‍♀️𝚃𝙴𝙲𝙷 𝙿𝙰𝚂𝙸𝙳𝚄 𝚆.𝙰 𝙱𝙾𝚃🧚‍♀️` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+940754377088'] //Owner number in aive msg
-global.premium = ['+940754377088'] //Owner Number info
-global.ownernomer = '+940754377088' //Owner Number <<<
+global.owner = ['94721568805'] //Owner number in aive msg
+global.premium = ['+94721568805'] //Owner Number info
+global.ownernomer = '+94721568805' //Owner Number <<<
 
-global.ownername = '[ 🐋⃚⃝🪄 𝗣𝗔𝗦𝗜𝗬𝗔 𝗕𝗢𝗧 🪄⃚⃝🐋]' //Owner Name
-global.botname = ' [🤹‍♂️ 𝙿𝙰𝚂𝙸𝚈𝙰 𝙼𝙰𝚂𝚃𝙴𝚁 𝙱𝙾𝚃 🤹‍♂️]' //Bot Name
+global.ownername = '[🦄 © 𝙎𝙇𝙏 𝙋𝘼𝙎𝙄𝘿𝙐 🦄]' //Owner Name
+global.botname = ' [🦄 *© PASIDU -MD 2022* 🦄]' //Bot Name
 
 global.button = '🥰MY WHATSAPP GROUP📍' //Costomize A Button Name In Alive Message
 global.btnurl = '😃 https://chat.whatsapp.com/KkUJmbixrmpCymTXaLOul8 😃' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala, Sri Lanka' //Country Region
 
-global.packname = '🤹‍♂️ᴛᴇͥ͢ᴄͣʜͫ_ᴘᴀꜱɪͫ͢ᴅͣᴜͯ🤹‍♂️' //Bot Pacage Name
-global.author = '😎𝗩.𝗣𝗮𝘀𝗶𝗱𝘂❯❯' //Author Name
+global.packname = '🦄 © 𝙎𝙇𝙏 𝙋𝘼𝙎𝙄𝘿𝙐 🦄' //Bot Pacage Name
+global.author = '🦄 © 𝙎𝙇𝙏 𝙋𝘼𝙎𝙄𝘿𝙐 🦄❯❯' //Author Name
 global.prefa = ['*','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '❤️' //A Charactor In Menu!
